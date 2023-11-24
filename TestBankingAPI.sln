@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBankingAPI", "TestBankingAPI.csproj", "{4656296A-73E1-425A-BD4B-50B04F948288}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBankingAPI.Contracts", "..\TestBankingAPI.Contracts\TestBankingAPI.Contracts.csproj", "{51C8FC8F-AE9A-49DF-818A-37D78000F3BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4656296A-73E1-425A-BD4B-50B04F948288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4656296A-73E1-425A-BD4B-50B04F948288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4656296A-73E1-425A-BD4B-50B04F948288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4656296A-73E1-425A-BD4B-50B04F948288}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51C8FC8F-AE9A-49DF-818A-37D78000F3BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51C8FC8F-AE9A-49DF-818A-37D78000F3BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51C8FC8F-AE9A-49DF-818A-37D78000F3BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51C8FC8F-AE9A-49DF-818A-37D78000F3BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF81355B-1BC7-420F-9D9D-CFE889D2A87E}
+	EndGlobalSection
+EndGlobal
